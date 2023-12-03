@@ -1,5 +1,5 @@
 # Pharmacy_MVP_bot
-Решение представлено в формате google colab ноутбуку, который доступен по ссылке ..., <br>
+Решение представлено в формате google colab ноутбуку, который доступен по ссылке https://colab.research.google.com/drive/12xF6L5FvPJpNDLeXAB3ckuDXlEgj-RPY?usp=sharing , <br>
 Все необходимые данные загрузятся автоматически во время запуска google colab ноутбука.<br>
 
 # Краткое описание решения
